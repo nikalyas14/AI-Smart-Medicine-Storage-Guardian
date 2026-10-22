@@ -1,0 +1,11 @@
+PROJECT TITLE
+AI Smart Medicine Storage Guardian: Explainable Temperature-Trend Monitoring
+
+TECHNOLOGIES & AI TOOLS USED
+Python, Streamlit, Pandas, NumPy, Plotly, CSV-based sensor data, rule-based threshold checks, and trend/anomaly heuristics. ESP32 and a digital temperature sensor are planned for hardware integration. A trained predictive AI model is not yet implemented; machine-learning evaluation is a planned next step.
+
+PROJECT STATUS
+Student proof-of-concept. Dashboard uses simulated or uploaded readings and transparent heuristics. No clinical validation; no claim that the system determines medicine usability.
+
+GITHUB / PROJECT REPOSITORY LINK
+After creating a public GitHub repository and uploading these files, paste the public repository URL here. Do not submit this placeholder.
